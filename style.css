@@ -1,0 +1,37 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-size: 30px;
+    font-family: "Monospace";
+    border: 8px solid black;
+    padding: 10px 20px;
+    margin: 20px 10px 10px 10px;
+    text-align: left;
+}
+
+#bluecolor {
+    color:aqua;
+    margin-left: 0px;
+}
+
+h2 {
+    background-color: purple;
+    font-family: 'Comic Sans MS', "Comic Sans", cursive;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 10px;
+
+}
+
+h3 {
+    background-color: rgb(156, 182, 231);
+    text-decoration: underline;
+    font-family: 'Comic Sans MS', "Comic Sans";
+    color: midnightblue;
+    text-align: right;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
